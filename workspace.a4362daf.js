@@ -474,8 +474,6 @@ parcelRequire = function(e, r, t, n) {
                 }), i.appendChild(d);
 
                 var z = document.createElement("div");
-                var zText = document.createTextNode("JOYEUX ANIVERSAIRE DE PREMIER MOIS MA SIRÈNE !!!");
-                z.appendChild(zText);
                 document.body.insertBefore(z, d);
                 z.style.color = "white"
 
